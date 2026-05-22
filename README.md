@@ -69,11 +69,3 @@ Contáctame en: <a href="mailto:danielalexander2703@gmail.com">danielalexander27
 <a href="https://www.linkedin.com/in/alexander-garcia2703" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:danielalexander2703@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
-
-<div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=Alexander-G2703M&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Alexander" height="250"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-G2703M&theme=material-palenight" height="250"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-G2703M&layout=compact&theme=tokyonight&hide_border=false" height="250" />
-</div>
