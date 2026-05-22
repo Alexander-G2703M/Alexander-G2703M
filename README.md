@@ -16,6 +16,11 @@ Contáctame en: <a href="mailto:danielalexander2703@gmail.com">danielalexander27
 📅 2025 – Actualmente <br/>
 ⏳ En curso.  
 
+**Curso en platzi** <br/>
+🎓 Java <br/>
+📅 2026 – Actualmente <br/>
+⏳ En curso. 
+
 **Colegio Angela Pineda Altamirano (CAPA)**<br/>
 🎓 General <br/>
 📅 2023 - 2024 <br/>
