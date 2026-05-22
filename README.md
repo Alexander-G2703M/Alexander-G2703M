@@ -4,9 +4,9 @@
 
 Soy estudiante de la carrera de **Tecnico en Desarrollo de Software**, actualmente me encuentro a finales de mis estudios.  
 Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, apesar que se me dificulta un poco,
-Me apasiona aprender y crear soluciones.  
+me apasiona aprender y crear soluciones.  
 
-Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com</a>  
+Contáctame en: <a href="mailto:danielalexander2703@gmail.com">danielalexander2703@gmail.com</a>  
 
 <h2>
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3l0cWxnMHdtc2lsYXV5bG9zMmQ5ZHgya3Jrdjc1Zng0a3NlbnRkbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/pGnNhScvs9Udt1WSkA/giphy.gif" width="25px">
@@ -15,16 +15,16 @@ Contáctame en: <a href="mailto:blancablacido@gmail.com">blancablacido@gmail.com
 
 
 
-**Universidad Tecnológica del Perú (UTP)** <br/>
-🎓 Ingeniería de Software<br/>
+**Escuela Tecnica ITCA-Fepade** <br/>
+🎓 Tecnico en Desarrollo de Software<br/>
 📅 2025 – Actualmente <br/>
 ⏳ En curso.  
 
 
 
-**Instituto de Investigación y Desarrollo de Administración y Tecnología (IDAT)**<br/>
-🎓 Computación e Informática <br/>
-📅 2022 - 2024 <br/>
+**Colegio Angela Pineda Altamirano (CAPA)**<br/>
+🎓 General <br/>
+📅 2023 - 2024 <br/>
 ✅ Finalizado. <br/>
 
 
