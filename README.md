@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola , Soy Reyna Blacido </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola , Soy Alexander Garcia </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 Soy estudiante de la carrera de **Tecnico en Desarrollo de Software**, actualmente me encuentro a finales de mis estudios.  
 Estoy ampliando mis conocimientos en **desarrollo front-end y back-end**, apesar que se me dificulta un poco,
@@ -60,11 +60,15 @@ Contáctame en: <a href="mailto:danielalexander2703@gmail.com">danielalexander27
 
 <h4>Redes y Contacto</h4>
 <p>
-<a href="https://github.com/BlackDoubleB" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="http://linkedin.com/in/reyna-blacido-aparicio-a03558290" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:blancablacido@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://github.com/Alexander-G2703M" target="_blank"><img alt="github"  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/alexander-garcia2703" target="_blank"><img  alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:danielalexander2703@gmail.com" target="_blank"><img  alt="gmail"  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
-------
 
-Credits: [BlackDoubleB](https://github.com/BlackDoubleB)<br/>
-Last Edited on: 15/09/2025
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px"> Estadísticas de GitHub:</h2>  
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=Alexander-G2703M&show_icons=true&theme=tokyonight&locale=es&custom_title=Estadísticas%20de%20Alexander" height="250"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alexander-G2703M&theme=material-palenight" height="250"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alexander-G2703M&layout=compact&theme=tokyonight&hide_border=false" height="250" />
+</div>
